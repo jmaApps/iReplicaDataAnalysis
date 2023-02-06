@@ -2,7 +2,6 @@
 from iReplicaFunctions import *
 
 
-
 if __name__ == '__main__':
     '''
         uncomment the method(s) that you would like to execute
